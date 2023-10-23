@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d635ff68-4859-4ab7-aadb-b22163dd335a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/IModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/IView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contract/src/test/java/fr/exia/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/test/java/fr/exia/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/src/test/java/fr/exia/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/test/java/fr/exia/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fr/exia/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/src/main/java/fr/exia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/src/test/java/fr/exia/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="d635ff68-4859-4ab7-aadb-b22163dd335a" name="Changes" comment="phase 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,8 +40,50 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
 }]]></component>
+  <component name="RunManager" selected="Maven.helloworldmaven [clean]">
+    <configuration name="Unnamed" type="AntRunConfiguration" nameIsGenerated="true">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="helloworldmaven [clean]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Ant Target.Unnamed" />
+      <item itemvalue="Maven.helloworldmaven [clean]" />
+    </list>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,11 +92,59 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698049145855</updated>
-      <workItem from="1698049146995" duration="3979000" />
+      <workItem from="1698049146995" duration="5811000" />
     </task>
+    <task id="LOCAL-00001" summary="phase 2">
+      <created>1698056033843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698056033843</updated>
+    </task>
+    <task id="LOCAL-00002" summary="phase 2">
+      <created>1698056221761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698056221761</updated>
+    </task>
+    <task id="LOCAL-00003" summary="phase 2">
+      <created>1698056639065</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698056639065</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="261070ae-a4d5-4470-a9ca-99ad3a1972a4" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="261070ae-a4d5-4470-a9ca-99ad3a1972a4">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="phase 6" />
+    <MESSAGE value="phase 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="phase 2" />
   </component>
 </project>
